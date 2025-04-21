@@ -1,1 +1,1 @@
-# IEEE_SSCS_SWE
+(IEEE SSCSSWE Tasks’ Solutions).
