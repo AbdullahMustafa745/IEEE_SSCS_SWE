@@ -11,7 +11,7 @@ int counter(char *mystring)
         {
             in_word=0;
         }
-        else
+        else if (in_word == 0)
         {
             in_word=1;
             count ++;
